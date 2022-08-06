@@ -10,7 +10,7 @@ async function initialize(req, res) {
   });
   const page = await browser.newPage();
   await page.goto(
-    "https://cademinhaentrega.com.br/gfl/tracking/D/37114335881",
+    "https://cademinhaentrega.com.br/gfl/tracking/E/26300797561493407500010001",
     {
       waitUntil: "load",
     }
