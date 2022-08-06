@@ -1,0 +1,15 @@
+{
+  "name": "Kabum_Monitor",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "puppeteer": "^16.0.0"
+  }
+}
